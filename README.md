@@ -11,7 +11,10 @@ The easiest way to deploy this Bot is via Heroku.
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sl-cricket/VcVideoPlayer)
 
+## 📌 Railway Deploy 💪
+The Best way
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ZQHq4i?referralCode=_IOZ03)
 # Our Credit 🔥
 
 <a href="https://t.me/BotDuniya"><img src="https://img.shields.io/badge/Louis-1b77FF.svg?logo=Telegram"></a>
